@@ -2,7 +2,7 @@ variable "ami" {
   description = "provide ami"
   type = string
 }
-variable "instance_type" {
+variable "size-instance" {
   description = "provide instance type"
   type = string
 }
