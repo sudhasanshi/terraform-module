@@ -6,7 +6,3 @@ variable "instance_type" {
   description = "provide instance type"
   type = string
 }
-
-variable "my-ec2" {
-  type = string
-}
